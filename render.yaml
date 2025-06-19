@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: yttutorial-api
+    env: docker
+    buildCommand: ./render/build.sh
+    startCommand: php -S 0.0.0.0:10000 -t public
+    plan: free
