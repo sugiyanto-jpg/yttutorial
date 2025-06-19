@@ -1,9 +1,13 @@
-{
-  "build": {
+  GNU nano 8.4                                                                                                                     railway.json                                                                                                                      Modified
+
+ {
     "env": {
       "PORT": "8080"
     }
   },
   "start": "php -S 0.0.0.0:8080 -t CRUDAPI"
 }
+
+
+
 
