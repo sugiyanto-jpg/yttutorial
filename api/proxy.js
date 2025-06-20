@@ -1,7 +1,9 @@
 export default async function handler(req, res) {
   const act = req.query.act || 'tes';
   const i = req.query.i || '';
-  const url = `http://angker.free.nf/yttutorial/CRUDAPI/APICrud.php?act=${act}&i=${i}`;
+
+  // GANTI URL di sini ke domain yang tidak ada script JS protection
+  const url = `https://sugiyanto.kesug.com/yttutorial/CRUDAPI/APICrud.php?act=${act}&i=${i}`;
 
   try {
     const response = await fetch(url);
