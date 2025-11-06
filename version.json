@@ -1,5 +1,0 @@
-{
-  "version": "1.0.0",
-  "apk_url": "https://raw.githubusercontent.com/sugiyanto-jpg/yttutorial/main/version.json",
-  "changelog": "Rilis pertama aplikasi Android Delphi\n- Login Supabase\n- CRUD Data\n- Koneksi Bluetooth Printer"
-}
