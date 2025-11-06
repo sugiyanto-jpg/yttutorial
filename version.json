@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "apk_url": "https://github.com/sugiyanto-jpg/yttutorial/releases/latest/download/app.apk",
-  "changelog": "Rilis pertama aplikasi Android Delphi\n- Login Supabase\n- CRUD Data\n- Koneksi Bluetooth Printer"
+  "version": "1.0.1",
+  "apk_url": "https://github.com/sugiyanto-jpg/yttutorial/releases/latest/download/eClient.apk",
+  "changelog": "Perbaikan kecil\n- test update"
 }
